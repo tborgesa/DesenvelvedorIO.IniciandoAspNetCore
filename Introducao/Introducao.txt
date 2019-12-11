@@ -1,0 +1,36 @@
+________________________________________________
+
+1996 - ASP - Active Server Pages (VB Scripts)
+2002 - ASP.NET WebForms - .NET Framework
+2009 - ASP.NET MVC - de 1 ate 5
+2016 - ASP.NET Core
+________________________________________________
+Porque novo stack???
+
+- Acompanhamento de surgimentos de novas plataformas concorrentes
+- Dependia do System.Web e esse era um monolitico preso num SO
+- Pronto para nuvem
+________________________________________________
+Novidades
+
+- Inovação
+	- Extramemente rápido
+
+- OpenSource
+	- .NET Fundation
+
+- Multiplataforma
+	- Todos os SO e nuvens além de docker
+________________________________________________
+.NET CLI
+
+Comandos para gerar e gerenciar projetos feitos em .NET Core
+
+
+
+	
+
+
+
+
+
